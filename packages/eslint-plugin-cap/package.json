@@ -1,6 +1,6 @@
 {
   "name": "@ndbs-dk/eslint-plugin-cap",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "NDBS ESLint rules for SAP CAP projects",
   "author": "gizemsoylutr",
   "license": "MIT",
@@ -20,6 +20,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/NTTDATAInnovation/ndbs-lint.git"
+  },
+  "homepage": "https://github.com/ndbs-dk/ndbs-lint#readme",
+  "bugs": {
+    "url": "https://github.com/ndbs-dk/ndbs-lint/issues"
   },
   "peerDependencies": {
     "eslint": "^9.0.0"
