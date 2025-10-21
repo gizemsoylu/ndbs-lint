@@ -1,0 +1,17 @@
+{
+  "name": "@ndbs/eslint-plugin-cap",
+  "version": "1.0.0",
+  "description": "NDBS ESLint rules for SAP CAP projects",
+  "author": "gizemsoylutr",
+  "license": "MIT",
+  "type": "commonjs",
+  "main": "index.cjs",
+  "files": ["lib", "index.cjs"],
+  "keywords": ["eslint", "eslintplugin", "sap", "cap", "ndbs"],
+  "peerDependencies": {
+    "eslint": "^9.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
