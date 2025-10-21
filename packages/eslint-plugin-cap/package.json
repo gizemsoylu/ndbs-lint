@@ -6,8 +6,21 @@
   "license": "MIT",
   "type": "commonjs",
   "main": "index.cjs",
-  "files": ["lib", "index.cjs"],
-  "keywords": ["eslint", "eslintplugin", "sap", "cap", "ndbs"],
+  "files": [
+    "lib",
+    "index.cjs"
+  ],
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "sap",
+    "cap",
+    "ndbs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NTTDATAInnovation/ndbs-lint.git"
+  },
   "peerDependencies": {
     "eslint": "^9.0.0"
   },
