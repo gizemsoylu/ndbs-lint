@@ -1,6 +1,6 @@
 {
   "name": "@ndbs-dk/eslint-plugin-cap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NDBS ESLint rules for SAP CAP projects",
   "author": "gizemsoylutr",
   "license": "MIT",
